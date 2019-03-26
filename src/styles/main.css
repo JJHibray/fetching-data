@@ -1,0 +1,25 @@
+#foodList { 
+   
+    display: flex;
+
+    justify-content: space-around;
+
+    flex-wrap: wrap;
+   
+    flex-flow: column;
+   
+}
+
+#foodList div {
+
+    border: 1px solid chocolate;
+   
+}
+
+h1 {
+    margin: 10px
+}
+
+p {
+    margin: 10px;
+}
